@@ -17,7 +17,6 @@ public class Application {
 //		p.changeName("Phone");
 //		p.printName();
 //		
-//		p.printQuantity();
 //		p.changeQuantity(5);
 //		p.printQuantity();
 //		
