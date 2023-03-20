@@ -22,7 +22,7 @@ public class Application {
 //		p.printQuantity();
 //		
 //		p.printPrice();
-//		p.changePrice(2.90f);
+//		p.changePrice(3.90f);
 //		p.printPrice();
 //		
 //		Product p3 = new Product("Keyboard", 9, false, 15);
